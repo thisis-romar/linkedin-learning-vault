@@ -58,6 +58,13 @@
       }
     },
     {
+      "query": "path:\"Glossary\"",
+      "color": {
+        "a": 1,
+        "rgb": 1357990
+      }
+    },
+    {
       "query": "tag:#professional-certificate",
       "color": {
         "a": 1,
